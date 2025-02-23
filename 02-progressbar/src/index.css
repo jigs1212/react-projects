@@ -1,0 +1,10 @@
+.outer {
+  border: 1px solid black;
+  border-radius: 20px;
+  overflow: hidden;
+  margin: 10px 0;
+}
+
+.progress {
+  padding: 5px 2px;
+}
