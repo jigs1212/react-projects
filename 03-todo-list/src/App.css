@@ -1,0 +1,13 @@
+.main-container {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.todo-input-name {
+  margin-bottom: 10px;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
